@@ -17,9 +17,4 @@ HTML5, CSS3, JavaScript, OpenWeatherMap API
 2. Replace `API_KEY` in script.js with your key
 3. Open `index.html` in browser
 
-### 🔗 Live Demo
-[Deploy chesaka link ikkada paste chestha]
-
-
-
 Completed as part of SkillCraft Technology Internship - Task 05
